@@ -7,7 +7,7 @@ const students = {
     rollno: "24CSEAIML236",
     regdno: "24UG010731",
     mobileno: "937064979",
-    sec: "C",
+    sec: "D",
     branch: "CSE(AIML)",
     mail: "rajdeepmajhi077@gmail.com",
     photo:"RAJ.jpg"
@@ -57,7 +57,7 @@ const students = {
     rollno: "24CSEAIML177",
     regdno: "24UG010665",
     mobileno: "912xxxxx",
-    sec: "C",
+    sec: "D",
     branch: "CSE(AIML)",
     mail: "24cseaiml177.mohitprashad@giet.edu",
     photo: "MOHIT.jpg"
@@ -67,7 +67,7 @@ const students = {
     rollno: "24CSEAIML179",
     regdno: "24UG010665",
     mobileno: "912xxxxx",
-    sec: "C",
+    sec: "B",
     branch: "CSE(AIML)",
     mail: "24cseaiml179.amandeepkumar@giet.edu",
     photo: "images/swayamjit.jpg"
@@ -77,7 +77,7 @@ const students = {
     rollno: "24CSEAIML185",
     regdno: "24UG010665",
     mobileno: "912xxxxx",
-    sec: "C",
+    sec: "D",
     branch: "CSE(AIML)",
     mail: "24cseaiml185.manishkumarbhediya@giet.edu",
     photo: "images/swayamjit.jpg"
@@ -87,7 +87,7 @@ const students = {
     rollno: "24CSEAIML181",
     regdno: "24UG010665",
     mobileno: "912xxxxx",
-    sec: "C",
+    sec: "D",
     branch: "CSE(AIML)",
     mail: "24cseaiml181.sashiranjan@giet.edu",
     photo: "images/swayamjit.jpg"
@@ -97,7 +97,7 @@ const students = {
     rollno: "24CSEAIML225",
     regdno: "24UG010665",
     mobileno: "912xxxxx",
-    sec: "C",
+    sec: "B",
     branch: "CSE(AIML)",
     mail: "24cseaiml216.rabulaadhiraj@giet.edu",
     photo: "images/swayamjit.jpg"
