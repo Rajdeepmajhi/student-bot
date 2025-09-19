@@ -1,0 +1,120 @@
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(135deg, #4facfe, #00f2fe);
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.chat-container {
+  width: 420px;
+  height: 650px;
+  background: #fff;
+  border-radius: 20px;
+  box-shadow: 0 8px 25px rgba(0,0,0,0.2);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.chat-header {
+  background: #0078ff;
+  color: #fff;
+  padding: 15px;
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.chat-box {
+  flex: 1;
+  padding: 15px;
+  overflow-y: auto;
+  background: #f7f7f7;
+  display: flex;
+  flex-direction: column;
+}
+
+.message {
+  margin: 10px 0;
+  max-width: 85%;
+  padding: 10px 15px;
+  border-radius: 15px;
+  font-size: 14px;
+  line-height: 1.4;
+  white-space: pre-line;
+}
+
+.bot {
+  background: #0078ff;
+  color: white;
+  border-bottom-left-radius: 0;
+  align-self: flex-start;
+}
+
+.user {
+  background: #e5e5ea;
+  color: black;
+  border-bottom-right-radius: 0;
+  align-self: flex-end;
+}
+
+/* Student card layout */
+.student-card {
+  display: flex;
+  align-items: flex-start;
+  background: #0078ff;
+  color: white;
+  border-radius: 15px;
+  padding: 12px;
+  margin-top: 10px;
+  max-width: 90%;
+}
+
+.student-photo {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  margin-right: 12px;
+  border: 2px solid white;
+  object-fit: cover;
+}
+
+.student-info {
+  flex: 1;
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+.chat-input {
+  display: flex;
+  padding: 10px;
+  border-top: 1px solid #ddd;
+  background: #fff;
+}
+
+.chat-input input {
+  flex: 1;
+  padding: 10px;
+  border-radius: 20px;
+  border: 1px solid #ccc;
+  outline: none;
+}
+
+.chat-input button {
+  margin-left: 10px;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 20px;
+  background: #0078ff;
+  color: white;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.chat-input button:hover {
+  background: #005ecc;
+}
