@@ -57,7 +57,7 @@ const students = {
     rollno: "24CSEAIML177",
     regdno: "24UG010665",
     mobileno: "912xxxxx",
-    sec: "D",
+    sec: "e",
     branch: "CSE(AIML)",
     mail: "24cseaiml177.mohitprashad@giet.edu",
     photo: "MOHIT.jpg"
