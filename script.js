@@ -32,7 +32,7 @@ const students = {
     mail: "24cseaiml229.manaskumarmohanta@giet.edu",
     photo: "images/swayamjit.jpg"
   },  
-  "24CSEAIML116": { 
+  "24CSEAIML216": { 
     name: "Surya sarathi sahoo", 
     rollno: "24CSEAIML216",
     regdno: "24UG010665",
